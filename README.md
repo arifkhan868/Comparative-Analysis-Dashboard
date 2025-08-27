@@ -31,3 +31,16 @@ The Excel file contains:
 - Product Master → Metadata for mapping product details
 
 - Support → Lookup/helper sheet for calculations
+
+---
+## ⚙️ Key Features
+
+📉 Comparative Analysis: Actual vs. Budget tracking
+
+📊 Interactive Dashboard: Slicers, pivot tables & charts
+
+📦 Product Insights: Identify top & underperforming products
+
+📅 Time-Based Trends: Monthly and quarterly analysis
+
+📈 Business Decision Support: Clear view of performance gaps
