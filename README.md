@@ -67,7 +67,21 @@ The Excel file contains:
 
 - Use slicers/filters to explore insights interactively
 
+---
+## 📸 Dashboard Preview
 
+(Upload a screenshot here after adding to repo)
+
+---
+## 🛠️ Tools & Technologies
+
+- Microsoft Excel
+
+- Pivot Tables
+
+- Charts & KPIs
+
+- Slicers & Filters
 
 
 
