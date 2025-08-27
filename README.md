@@ -16,3 +16,18 @@ It highlights:
 - Product-wise contribution
 
 - Key KPIs for decision-making
+
+---
+## 📂 Project Structure
+
+The Excel file contains:
+
+- Dashboard → Interactive visualization with slicers & KPIs
+
+- Sales → Transaction-level sales data (Date, ProductId, Sale Amount)
+
+- Budget → Monthly budget allocation & planned values
+
+- Product Master → Metadata for mapping product details
+
+- Support → Lookup/helper sheet for calculations
