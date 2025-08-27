@@ -92,7 +92,12 @@ The Excel file contains:
 
 - Add forecasting models for sales prediction
 
+---
+## 👤 Author
 
+Ariful Islam
+📌 Entry-level Data & BI Analyst | Skilled in SQL, Excel, Power BI
+🔗 Email: arifkhan.nsd14@gmail.com
 
 
 
