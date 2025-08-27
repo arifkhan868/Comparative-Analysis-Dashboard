@@ -56,4 +56,29 @@ The Excel file contains:
 
 - Analysts → Discover insights for growth strategies
 
+---
+## 🚀 How to Use
+
+- Download the Excel file from this repository
+
+- Open it in Microsoft Excel (2016 or later)
+
+- Go to the Dashboard sheet
+
+- Use slicers/filters to explore insights interactively
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
