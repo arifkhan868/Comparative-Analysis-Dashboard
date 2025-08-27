@@ -70,8 +70,8 @@ The Excel file contains:
 ---
 ## 📸 Dashboard Preview
 
-(Upload a screenshot here after adding to repo)
-
+  - <a href="https://github.com/arifkhan868/Adventure-Work-Sales-Dashboard/blob/main/Dashboard.PNG">View Dashboard</a>
+  
 ---
 ## 🛠️ Tools & Technologies
 
