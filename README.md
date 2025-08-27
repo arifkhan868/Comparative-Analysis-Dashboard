@@ -83,7 +83,14 @@ The Excel file contains:
 
 - Slicers & Filters
 
+---
+## 🔮 Future Improvements
 
+- Automate refresh with Power Query
+
+- Migrate to Power BI for scalable dashboards
+
+- Add forecasting models for sales prediction
 
 
 
